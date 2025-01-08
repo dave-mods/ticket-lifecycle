@@ -1,5 +1,4 @@
 # ticket-lifecycleecho "# ticket-lifecycle" >> README.md
-echo "# ticket-lifecycle" >> README.mdv<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
