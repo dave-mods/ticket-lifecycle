@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+![image](https://github.com/user-attachments/assets/70e76010-7528-4fed-8908-c054fc713b7e)
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
