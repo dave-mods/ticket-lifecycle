@@ -1,4 +1,4 @@
-<p align="center">
+# <b>Ticket Lifecycle<p align="center">
 ![image](https://github.com/user-attachments/assets/70e76010-7528-4fed-8908-c054fc713b7e)
 </p>
 
